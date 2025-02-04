@@ -7,7 +7,7 @@ public class PrimeNumber {
 	public static void main(String[] args) {
 		//Use code to determine prime numbers
 		//print a list of numbers 1-20
-		System.out.println("Type a number and see if it's prime");
+		System.out.println("Type one number and see if it's prime");
 		Scanner sc = new Scanner(System.in);
 		int a = sc.nextInt();
 		int count = 0;
