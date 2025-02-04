@@ -1,0 +1,3 @@
+This is the practice text file
+This will be read through the machine
+Don't forget the while loop
